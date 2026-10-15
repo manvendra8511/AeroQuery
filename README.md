@@ -1,4 +1,4 @@
-# Aircraft Maintenance Troubleshooting Assistant (RAG)
+# AeroQuery (RAG)
 
 A citation-grounded retrieval-augmented generation (RAG) system that helps engineers search aviation maintenance literature (defect reports, airworthiness directives, safety reports) using natural-language symptom descriptions, and returns answers traceable to their source documents.
 
