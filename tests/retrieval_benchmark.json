@@ -1,0 +1,28 @@
+
+[
+    {
+      "query": "What happened when the main battery charger failed?",
+      "relevant_source_ids": [
+        "SDR_2019_00000087"
+      ],
+      "category": "battery_charger"
+    },
+    {
+      "query": "What happened when the main battery charger status message appeared?",
+      "relevant_source_ids": [
+        "SDR_2019_00000000"
+      ],
+      "category": "battery_charger"
+    },
+    {
+      "query": "What happened when the flight attendant flashlight was not charging?",
+      "relevant_source_ids": [
+        "SDR_2019_00000060",
+        "SDR_2019_00000097",
+        "SDR_2019_00000061",
+        "SDR_2019_00000098"
+      ],
+      "category": "flashlight_battery"
+    }
+  ]
+  
