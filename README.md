@@ -291,4 +291,4 @@ This starts the API, the vector database and (optionally) the UI. See `docker-co
 
 ---
 
-**Author:** Tanishq Khetwal | [GitHub](https://github.com/tanishq-byte) | [LinkedIn](https://www.linkedin.com/in/tanishq-khetwal-8563a2330)
+**Author:** Manvendra singh bhadauria | [LinkedIn](www.linkedin.com/in/manvendra-singh-123461293)
